@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.result{
+    border: 1px solid black;
+}
+.recommend{
+    border: 1px solid black;
+}
+.vertical-center {
+    min-height: 100%;
+    min-height: 100vh; 
+    display: flex;
+    align-items: center;
+  }
+  .vertical-center2 {
+    min-height: 100%;
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
